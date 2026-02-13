@@ -2,6 +2,25 @@
 
 Acest proiect este o simulare 3D interactivă dezvoltată în C++ și OpenGL. Scena prezintă o cameră detaliată, generată procedural, care include elemente de mobilier, un televizor funcțional, lumini dinamice, sisteme de particule și fizică de bază (coliziuni). Utilizatorul poate interacționa cu mediul înconjurător folosind arme (o bâtă de baseball și un pistol) pentru a distruge obiecte, poate modifica setările de iluminare și poate schimba tematica vizuală a întregii scene.
 
+
+## Galerie Foto
+
+<p align="center">
+  <img src="screenshots/Poza1.PNG" width="48%" />
+  <img src="screenshots/poza2.PNG" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/poza3.PNG" width="48%" />
+  <img src="screenshots/poza4.PNG" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/poza5.PNG" width="48%" />
+  <img src="screenshots/poza6.PNG" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/poza7.PNG" width="48%" />
+  <img src="screenshots/poza8.PNG" width="48%" />
+</p>
 ---
 
 ## Funcționalități Principale & Bonusuri Implementate
